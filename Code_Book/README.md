@@ -2,3 +2,5 @@
 : dictionary 자료형에서 가장 큰 value값을 갖는 key값 반환하기
 - 제곱수 판별하기 <br>
 : is_integer()
+- 배열 회전시키기 <br>
+: 문자열 인덱싱
